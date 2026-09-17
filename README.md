@@ -9,7 +9,6 @@ I am passionate about building things, learning about them, and bringing ideas t
 - Artificial Intelligence & Machine Learning
 - Computer Vision & Image Processing
 - Python & C
-- REST APIs & Backend Development
 - Databases
 - IoT & Embedded Systems
 
